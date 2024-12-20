@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
-  <diagram name="第 1 页" id="-qujfh7LNGp53tUOE8nW">
-    <mxGraphModel>
+  <diagram name="MPDU结构" id="-qujfh7LNGp53tUOE8nW">
+    <mxGraphModel dx="819" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AdPsdc_bAD_s1Bdx0XPb-1" value="MAC Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdPsdc_bAD_s1Bdx0XPb-2" value="Payload Body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdPsdc_bAD_s1Bdx0XPb-3" value="CRC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
